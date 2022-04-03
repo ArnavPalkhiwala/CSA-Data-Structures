@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://alvinzhengq.github.io/CSA-Data-Structures/sitemap.xml
